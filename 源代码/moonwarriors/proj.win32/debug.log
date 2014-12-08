@@ -1,0 +1,22 @@
+
+<dict>
+	cocos2d.x.version: quick-cocos2d-x 2.2.5plus
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.vendor: Intel
+	gl.renderer: Intel(R) HD Graphics 4000
+	gl.version: 3.3.0 - Build 8.15.10.2778
+	gl.max_texture_size: 8192
+	gl.max_texture_units: 16
+	gl.supports_PVRTC: false
+	gl.supports_NPOT: true
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+</dict>
+lua_loadChunksFromZIP() - load zip file: E:\Demo\cocos2d-x\quick-cocos2d-x-2.2.5\lib\framework_precompiled\framework_precompiled.zip
+lua_loadChunksFromZIP() - loaded chunks count: 122
+------------------------------------------------
+LOAD LUA FILE: scripts/main.lua
+------------------------------------------------
+Get data from file(scripts/main.lua) failed!

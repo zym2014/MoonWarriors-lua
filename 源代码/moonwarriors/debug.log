@@ -1,0 +1,55 @@
+
+<dict>
+	cocos2d.x.version: quick-cocos2d-x 2.2.5plus
+	cocos2d.x.compiled_with_profiler: false
+	cocos2d.x.compiled_with_gl_state_cache: true
+	gl.vendor: Intel
+	gl.renderer: Intel(R) HD Graphics 4000
+	gl.version: 3.3.0 - Build 8.15.10.2778
+	gl.max_texture_size: 8192
+	gl.max_texture_units: 16
+	gl.supports_PVRTC: false
+	gl.supports_NPOT: true
+	gl.supports_BGRA8888: false
+	gl.supports_discard_framebuffer: false
+	gl.supports_vertex_array_object: true
+</dict>
+lua_loadChunksFromZIP() - load zip file: E:\Demo\cocos2d-x\quick-cocos2d-x-2.2.5\lib\framework_precompiled\framework_precompiled.zip
+lua_loadChunksFromZIP() - loaded chunks count: 122
+------------------------------------------------
+LOAD LUA FILE: E:/Demo/cocos2d-x/quick-cocos2d-x-2.2.5/projects/moonwarriors/scripts/main.lua
+------------------------------------------------
+[0.4066] [INFO] 
+[0.4075] [INFO] # DEBUG                        = 1
+[0.4079] [INFO] #
+[0.4087] [INFO] # device.platform              = windows
+[0.4090] [INFO] # device.model                 = unknown
+[0.4094] [INFO] # device.language              = cn
+[0.4098] [INFO] # device.writablePath          = E:\Demo\cocos2d-x\quick-cocos2d-x-2.2.5\projects\moonwarriors\
+[0.4106] [INFO] # device.cachePath             = E:\Demo\cocos2d-x\quick-cocos2d-x-2.2.5\projects\moonwarriors\
+[0.4118] [INFO] # device.directorySeparator    = \
+[0.4122] [INFO] # device.pathSeparator         = ;
+[0.4126] [INFO] #
+[0.4148] [INFO] # CONFIG_SCREEN_AUTOSCALE      = FIXED_WIDTH
+[0.4150] [INFO] # CONFIG_SCREEN_WIDTH          = 320.00
+[0.4155] [INFO] # CONFIG_SCREEN_HEIGHT         = 568.89
+[0.4159] [INFO] # display.widthInPixels        = 1080.00
+[0.4163] [INFO] # display.heightInPixels       = 1920.00
+[0.4167] [INFO] # display.contentScaleFactor   = 3.38
+[0.4172] [INFO] # display.width                = 320.00
+[0.4176] [INFO] # display.height               = 568.89
+[0.4181] [INFO] # display.cx                   = 160.00
+[0.4185] [INFO] # display.cy                   = 284.44
+[0.4190] [INFO] # display.left                 = 0.00
+[0.4194] [INFO] # display.right                = 320.00
+[0.4198] [INFO] # display.top                  = 568.89
+[0.4202] [INFO] # display.bottom               = 0.00
+[0.4214] [INFO] # display.c_left               = -160.00
+[0.4222] [INFO] # display.c_right              = 160.00
+[0.4229] [INFO] # display.c_top                = 284.44
+[0.4233] [INFO] # display.c_bottom             = -284.44
+[0.4241] [INFO] #
+BaseFactory
+dragonBones::CCDBManager::printTickCount tickcount:1 thisptr:129391376 msCCDBManager:0, sizeof(128) 96, 20
+CCHTTPRequest[0x0001] - create request with url: http://www.google-analytics.com/collect
+CCHTTPRequest[0x0001] - request removed
