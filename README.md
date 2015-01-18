@@ -23,5 +23,5 @@ Cocos Code IDE<br>
 [https://github.com/zym2014/MoonWarriors-lua](https://github.com/zym2014/MoonWarriors-lua)<br>
 
 作者Blog：<br>
-[http://zym.cnblogs.com/](http://zym.cnblogs.com/)<br>
+[http://zym.cnblogs.com](http://zym.cnblogs.com)<br>
 [http://blog.csdn.net/zym_123456](http://blog.csdn.net/zym_123456)<br>
